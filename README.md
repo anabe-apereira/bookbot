@@ -138,6 +138,6 @@ Contém as funções responsáveis pela análise do texto:
 
 ## 👩‍💻 Autora
 
-Projeto desenvolvido por **Beatriz Pereira** durante o curso  
+Projeto desenvolvido por **Ana Beatriz Pereira** durante o curso  
 [**Build a Bookbot in Python**](https://www.boot.dev) 💻✨
 
